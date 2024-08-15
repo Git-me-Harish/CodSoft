@@ -1,5 +1,3 @@
-Certainly! I'll add your Sales Prediction project to the README file and integrate it seamlessly with the existing content. Here's an updated version of the README that includes your new project:
-
 # CodSoft 💻
 
 This repository contains four data science projects implemented using Python and Streamlit. Each project demonstrates different aspects of machine learning and data analysis.
@@ -28,7 +26,7 @@ This repository contains four data science projects implemented using Python and
 1. Clone this repository:
    ```
    git clone https://github.com/Git-me-Harish/CodSoft.git
-   cd data-science-projects
+   cd CodSoft
    ```
 2. Create a virtual environment (optional but recommended):
    ```
