@@ -27,7 +27,7 @@ This repository contains four data science projects implemented using Python and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/data-science-projects.git
+   git clone https://github.com/Git-me-Harish/CodSoft.git
    cd data-science-projects
    ```
 2. Create a virtual environment (optional but recommended):
