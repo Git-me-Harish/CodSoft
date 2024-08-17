@@ -1,3 +1,5 @@
+# IMPORTING LIBRARIES:
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -9,6 +11,7 @@ from plotly.subplots import make_subplots
 import joblib
 from sklearn.base import BaseEstimator, TransformerMixin
 
+# DEFINING FUNCTIONS TO HANDLE THE REQUEST: 
 class FeatureEngineer(BaseEstimator, TransformerMixin):
     def fit(self, X, y=None):
         return self
