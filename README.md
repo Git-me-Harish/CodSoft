@@ -1,6 +1,6 @@
 # CodSoft 💻
 
-This repository contains four data science projects implemented using Python and Streamlit. Each project demonstrates different aspects of machine learning and data analysis.
+This repository contains five data science projects implemented using Python and Streamlit. Each project demonstrates different aspects of machine learning and data analysis.
 
 ## Projects
 
@@ -8,6 +8,7 @@ This repository contains four data science projects implemented using Python and
 2. Movie Review Prediction
 3. Credit Card Fraud Detection
 4. Sales Prediction
+5. Titanic Survival Prediction
 
 ## Technologies Used
 
@@ -97,6 +98,22 @@ Features:
 - Feature importance analysis
 - Real-time sales predictions based on user input
 
+### 5. Titanic Survival Prediction
+
+This project predicts the likelihood of survival for passengers on the Titanic based on various features such as age, sex, passenger class, and more.
+
+To run the Titanic Survival Prediction app:
+```
+streamlit run titanic_prediction.py
+```
+
+Features:
+- Advanced data preprocessing and feature engineering
+- Training of multiple classification models (Logistic Regression, Random Forest, XGBoost)
+- Interactive prediction of survival probability
+- Visualization of feature importance and survival statistics
+- Detailed interpretation of prediction results
+
 ## Data
 
 Each project requires its respective dataset:
@@ -104,6 +121,7 @@ Each project requires its respective dataset:
 - Movie Review Prediction: `IMDb Movies India.csv`
 - Credit Card Fraud Detection: `creditcard_data.csv`
 - Sales Prediction: `advertising.csv`
+- Titanic Survival Prediction: `Titanic-Dataset.csv`
 
 Ensure these files are present in the same directory as their corresponding Python scripts.
 
@@ -123,7 +141,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Thanks to the Scikit-learn and Streamlit communities for their excellent documentation and examples.
-- Dataset sources: UCI Machine Learning Repository, IMDb, Kaggle
+- Dataset sources: UCI Machine Learning Repository, IMDb, Kaggle, Titanic dataset providers
 - Special thanks to CodSoft for the project inspiration and support
-
-This README now includes your Sales Prediction project, maintaining a consistent structure with the other projects. It highlights the key features of your new project and provides instructions for running the Streamlit app. The acknowledgments section also mentions CodSoft, giving credit for the project inspiration.
