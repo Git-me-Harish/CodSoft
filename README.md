@@ -47,7 +47,7 @@ This project classifies Iris flowers into three species based on their sepal and
 
 To run the Iris Data Classification app:
 ```
-streamlit run iris_classification.py
+streamlit run Iris.py
 ```
 
 Features:
@@ -61,7 +61,7 @@ This project predicts movie ratings based on various features such as year, dura
 
 To run the Movie Review Prediction app:
 ```
-streamlit run movie_prediction.py
+streamlit run movie.py
 ```
 
 Features:
@@ -75,7 +75,7 @@ This project detects fraudulent credit card transactions using machine learning 
 
 To run the Credit Card Fraud Detection app:
 ```
-streamlit run fraud_detection.py
+streamlit run credit.py
 ```
 
 Features:
@@ -89,7 +89,7 @@ This project predicts sales based on advertising spend across different channels
 
 To run the Sales Prediction app:
 ```
-streamlit run sales_prediction.py
+streamlit run sales.py
 ```
 
 Features:
@@ -104,7 +104,7 @@ This project predicts the likelihood of survival for passengers on the Titanic b
 
 To run the Titanic Survival Prediction app:
 ```
-streamlit run titanic_prediction.py
+streamlit run Titanic.py
 ```
 
 Features:
